@@ -1,7 +1,7 @@
 /* Global Style */
 
 body {
-    background-color: #77A1A6;
+    background-color: #42c6ff;
 }
 
 img {
@@ -11,14 +11,14 @@ img {
 }
 
 #container {
-    background-color: #BAD9C8;
+    background-color: #1d30e1;
 }
 
 /* Mobile Styles */
 
 @media (min-width: 320px) {
     nav {
-        background-color: #BF9969;
+        background-color: #5a20f8;
         padding: 5px;
         margin-top: 10px;
         text-align: center;
@@ -37,7 +37,7 @@ img {
         display: block;
         height: 30px;
         line-height: 30px;
-        background-color: #BAD9C8;
+        background-color: #40d1ea;
         color: black;
         font-size: 25px;
         text-decoration: none;
@@ -45,7 +45,7 @@ img {
     }
 
     nav li a:hover {
-        background-color: #77A1A6;
+        background-color: #313536;
     }
 
     main {
