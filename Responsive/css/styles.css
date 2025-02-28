@@ -56,6 +56,12 @@ img {
         text-align: center;
         color: black;
         text-shadow: 1px 1px black;
+        .baskervville-sc-regular {
+            font-family: "Baskervville SC", serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
     }
 
     footer {
